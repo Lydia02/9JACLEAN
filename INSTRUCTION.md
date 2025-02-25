@@ -1,6 +1,4 @@
-Here's a **README.md** file that explains the purpose of each folder and file in your project. This will help your team members understand the structure and work efficiently on their respective parts.
 
----
 
 ### **📌 README.md**
 ```markdown
@@ -14,7 +12,7 @@ Here's a **README.md** file that explains the purpose of each folder and file in
 ## **📂 Project Structure**
 The project follows a **clean architecture** with separation of concerns:
 
-```
+
 lib/
 │── main.dart
 │── core/
@@ -220,6 +218,3 @@ Happy coding! 🚀
   git commit -m "Added project README"
   git push origin main
   ```
-- Share this **README** with your team.
-
-Let me know if you want any modifications! 🚀
